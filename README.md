@@ -10,7 +10,7 @@ Analysis of a sample sales and marketing channel dataset to find key business in
 
 Which sales channel is performing better — Online or In-Store?
 
-The business is considering cutting its lowest-revenue region. Is that the right call? What does the data actually tell you?
+The business is considering cutting its lowest-revenue region. Is that the right call?
 
 Which marketing channel is delivering the best results? What would you recommend doubling down on — and what would you cut?
 
