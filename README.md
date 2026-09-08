@@ -1,4 +1,4 @@
-# Marketing-Channel-Data-Analysis
+# 📊 Marketing-Channel-Data-Analysis
 
 Analysis of a sample sales and marketing channel dataset to find key business insights using Microsoft Excel.
 
@@ -6,7 +6,9 @@ Analysis of a sample sales and marketing channel dataset to find key business in
 
 • Applied Excel Pivot Tables, conditional aggregation, segmentation, cross-tab analysis, ranking, percentage-share analysis and correlation analysis to compare revenue, profit margins, return rates, and discount-to-volume partnerships.
 
-• Answered key business Qs such as:
+🎯 Business Impact
+
+• Delivered actionable insights to answer key business questions such as:
 
 Which sales channel is performing better — Online or In-Store?
 
